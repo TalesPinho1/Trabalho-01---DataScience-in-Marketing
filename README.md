@@ -59,7 +59,7 @@ git clone https://github.com/seu-usuario/marketing-analytics-datascience.git
 
 2. Abra o notebook principal no [Google Colab](https://colab.research.google.com) ou Jupyter:
 ```bash
-trabalho_final_data_science_comentado.ipynb
+trabalho_final_data_science_VF.ipynb
 ```
 
 3. Execute célula por célula com os arquivos `.csv` na mesma pasta ou via upload.
@@ -68,7 +68,7 @@ trabalho_final_data_science_comentado.ipynb
 
 ## 👨‍🏫 Autor
 
-**Seu Nome Aqui**  
+**Tales Pinho**  
 Disciplina: Data Science em Marketing  
 Professor: Sérgio Assunção Monteiro, DSc  
-Faculdade: [Nome da Instituição]
+Faculdade: [ESPM]
